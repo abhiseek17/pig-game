@@ -1,5 +1,9 @@
 # Pig Dice Game
 
+### **Visit the link below to start playing the game**
+
+[Play game]("https://abhiseek17.github.io/pig-game/)
+
 ## Rules for the game
 
 - Players take turns with a die.
