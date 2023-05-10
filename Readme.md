@@ -2,7 +2,7 @@
 
 ### **Visit the link below to start playing the game**
 
-[Play game]("https://abhiseek17.github.io/pig-game/)
+[Play game](https://abhiseek17.github.io/pig-game/)
 
 ## Rules for the game
 
